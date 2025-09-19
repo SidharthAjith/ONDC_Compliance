@@ -133,7 +133,7 @@ a {
     background-color: 3b5998;
     cursor: pointer;
     line-height: inherit;
-    color:#3b5998 !important;
+    color:#19486d !important;
 }
 
 p {
@@ -685,6 +685,7 @@ ul {
     margin-bottom: 1rem;
     padding-left: 0;
     font-size: 13px;
+    color: #19486D;
 
     --toc-indent-level: 1;
     --toc-indent: calc(var(--toc-indent-level) * 18px);
@@ -845,7 +846,7 @@ a.toc-link-active::before {
     float: none;
     text-transform: unset;
     font-size: 13px;
-    color: var(--K15t-color-neutral-900);
+    color: #19486D;
 
 }
 
